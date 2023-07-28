@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Queue\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Queue\Queue\obj\Debug\Queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Queue\Queue\obj\Debug\Queue.pdb
